@@ -6,5 +6,5 @@ Check the web-site using below link :<br>
 -> https://shrujansshetty.github.io/MyProfile.github.io/<br><br>
 WORKING ON :<br>
 -> Profesional look page (By 15 May 2024)<br>
--> Making a separate web-site for each project idea mentioned in this web-site (By 25 May 2024)<br>
+-> Making a separate web-site for each project idea mentioned in this web-site (By 30 May 2024)<br>
 Thank You🙏
