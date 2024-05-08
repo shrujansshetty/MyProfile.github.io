@@ -133,7 +133,7 @@ nav .active {
 }
 */
 .quote{
-  display:block;
+  display:none;
 }
 #home {
   width: 100%;
